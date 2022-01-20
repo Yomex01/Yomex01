@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on PHP web development and Wordpress Web development
-- 📫 How to reach me(Chat me on whatsapp or call +2348139556181)
+- 📫 How to reach me(Chat me up on whatsapp +2348139556181)
 
 <!---
 Yomex01/Yomex01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
